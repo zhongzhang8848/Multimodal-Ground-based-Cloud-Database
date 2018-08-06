@@ -4,3 +4,4 @@ The TJNU multimodal ground-based cloud database (MGCD) is collected in Tianjin, 
 ![1-1](https://github.com/zhongzhang8848/Multimodal-Ground-based-cloud-Database-MGCD-/blob/master/image.jpg)
 
 # Download
+Please download, fill and sign the TJNU Multimodal Ground-based Cloud Database Agreement and return the whole document to zhong.zhang8848@gmail.com or zhangz@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
