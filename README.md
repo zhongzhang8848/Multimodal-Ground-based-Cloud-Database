@@ -30,5 +30,6 @@ year = {2020},
 publisher = {Multidisciplinary Digital Publishing Institute}  
 }
 
+
 # Download
-Please download, fill and sign the [MGCD Agreement](https://github.com/zhongzhang8848/Multimodal-Ground-based-Cloud-Database/blob/master/MGCD%20Agreement.pdf) and return the whole document to zhong.zhang8848@gmail.com or zhangz@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
+Before downloading the dataset, you should warrant that you have read and understood all elements contained in the [MGCD Agreement](https://github.com/shuangliutjnu/Multimodal-Ground-based-Cloud-Database1/blob/main/MGCD%20Agreement.pdf). [Downloading](https://drive.google.com/file/d/17PBT__KLwJuAsUMSxnByGWaBkMaxGh4i/view?usp=sharing) and using MGCD for your research means that you agree to all restrictions and requirements in the MGCD Agreement.
